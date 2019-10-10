@@ -1,0 +1,5 @@
+Caracteristicas de los programas 
+1. Operatividad: producir resultados esperados 
+2. Legibilidad: seguir uniformidad al codigo 
+3. Transportabilidad: programas no apegados
+4. Claridad: expresar de manera correcta la idea del programador 
